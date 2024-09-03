@@ -3,44 +3,6 @@
 body{
     margin: 0%;
 }
-#navbar{
-    display: flex;
-    width: 100%;
-    height: 70px;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-}
-#menu{
-    width: 30px;
-    height: 30px;
-    margin-left: 50px;
-    margin-top: 17px;
-    cursor: pointer;
-}
-#logo{
-    width: 80px;
-    height: 25px;
-    margin-top: 17px;
-    margin-left: 30px;
-    cursor: pointer;
-}
-#search_icon{
-    width: 20px;
-    height: 20px;
-    margin-top: 23px;
-    margin-left: 900px;
-}
-#search{
-    width: 200px;
-    height: 30px;
-    border-left: 0ch;
-    border-right: 0ch;
-    border-top: 0ch;
-    border-bottom: 0ch;
-    margin-top: 18px;
-    margin-left: 10px;
-    padding-left: 10px;
-    color: gray;
-}
 #content{
     width: 100%;
     display: flex;
@@ -85,13 +47,7 @@ body{
 #right>h1{
     color: rgb(0, 0, 0);
 }
-#homenews>h4{
-    color: red;
-    font-family: 'Zilla Slab', serif;
-}
-#homenews>p{
-    font-family: 'Zilla Slab', serif;
-}
+
 #latestnews{
     margin: 30px 30px 30px 30px;
     box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
