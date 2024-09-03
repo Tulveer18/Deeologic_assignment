@@ -1,45 +1,43 @@
 {
   "getTimeStories": [
    {
-    "name": "Business",
-    "url": "https://time.com/business",
-    "selection2": "Ads Are Officially Coming to Netflix. Here's What That Means for You",
-    "selection2_url": "https://time.com/6175837/netflix-ads-coming/"
+    "name": "Putin visits Mongolia in Defiance of ICC Arrest warrant",
+    "url": "https://time.com/7016879/putin-mongolia-visit-icc-arrest-warrant/",
+       "selection1": "SEPTEMBER 3, 2024 • 12:30 AM EDT"
    },
    {
-    "name": "Health",
-    "url": "https://time.com/health",
-    "selection2": "When Should You Use Home COVID-19 Tests? Here's What the Experts Say",
-    "selection2_url": "https://time.com/6190401/home-covid-19-tests-experts/"
+    "name": "Review: The Room Next Door",
+    "url": "https://time.com/7016869/the-room-next-door-review-almodovar/",
+       "selection1": "SEPTEMBER 2, 2024 • 10:18 PM EDT"
+
    },
    {
-    "name": "LightBox",
-    "url": "https://time.com/lightbox",
-    "selection2": "The Messages That Hold Refugee Families Together",
-    "selection2_url": "https://time.com/4272666/refugees-stories-whatsapp/"
+    "name": "U.K. Suspends some arms exports to Israel",
+    "url": "https://time.com/7016862/u-k-suspends-arms-exports-to-israel/",
+       "selection1": " SEPTEMBER 2, 2024 • 2:55 PM EDT"
+ 
    },
    {
-    "name": "Politics",
-    "url": "https://time.com/politics",
-    "selection2": "The Senate Just Unveiled a New Bipartisan Gun Bill. Here's What's in It",
-    "selection2_url": "https://time.com/6189655/gun-safety-bill-whats-in-it/"
+    "name": "U.S. seizes Plane used by Venezuelan president",
+    "url": "https://time.com/7016858/u-s-seizes-plane-venezuelan-president/",
+       "selection1": " SEPTEMBER 2, 2024 • 2:45 PM EDT"
    }
   ],
   "homenews": [
     {
-     "name": "Summers Are Becoming Unbearably Hot Before They Even Start",
-     "url": "https://time.com/6190496/heat-waves-summer-2022-starting-early/",
-     "selection2": "June 23, 2022 • 4:54 PM EDT"
+     "name": "Brazil supreme court uphold's judge decsion's to block X",
+     "url": "https://time.com/7016848/brazil-supreme-court-blocks-x-nationwide/",
+     "selection1": "June 23, 2022 • 4:54 PM EDT"
     },
     {
-     "name": "Coast Guard Rescues Record Number of Haitians",
-     "url": "https://time.com/6189923/haitian-migrants-coast-guard-rescue/",
-     "selection2": "June 23, 2022 • 5:55 PM EDT"
+     "name": "Thousands of U.S. Hostel workers Strike",
+     "url": "https://time.com/7016841/u-s-hotel-workers-strike-labor-day/",
+     "selection1": " SEPTEMBER 2, 2024 • 11:56 PM EDT"
     },
     {
      "name": "The Ocean Is Climate Change’s First Victim and Last Resort",
      "url": "https://time.com/6190044/ocean-climate-change/",
-     "selection2": "June 23, 2022 • 7:00 AM EDT"
+     "selection1": " SEPTEMBER 2, 2024 • 11:26 PM EDT"
     }
    ]
     }
